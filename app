@@ -1,4 +1,12 @@
 {
+  "keywords": [
+    "node",
+    "express",
+    "code-server",
+    "cloud-development",
+    "heroku-api"
+  ],
+
   "compilerOptions": {
     "target": "es2019",
     "module": "commonjs",
