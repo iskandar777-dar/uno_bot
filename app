@@ -20,3 +20,10 @@
     "replikit.config.ts",
     "modules/**/*.ts"
   ]
+"env": {
+    "TOKEN": {
+      "description": "Bot Token",
+      "required": true
+  },
+  "stack": "container"
+}
